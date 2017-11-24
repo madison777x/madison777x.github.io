@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-color: lightslategrey;
+	text-align: center
+		
+}
+p{font-family:font-family: 'Quicksand', sans-serif;;}
+#page{
+	text-align: center;
+}
